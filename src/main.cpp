@@ -104,7 +104,7 @@ void loop() {
 
   if (input == 2)
   {
-    Serial.write("hold\n");
+    Serial.write("hold \n");
     currentNo--;
   }
 
